@@ -1,5 +1,7 @@
 # Cracking-the-Coding-Interview-
 
+Notes of Cracking-the-Coding-Interview  Book
+
 I am not a recruiter. I am a software engineer. And as such, I know what it's like to be asked to whip up brilliant algorithms on the spot and then write flawless code on a whiteboard. I know because I've been asked
 to do the same thing-in interviews at Google, Microsoft, Apple, and Amazon, among other companies.
 
@@ -27,3 +29,10 @@ few candidates do!). Rather, it is about answering questions better than other c
 when you get a tricky question-everyone else probably thought it was hard too. It's okay to not be flawless.
 
 ![Cracking-the-Coding-Interview](https://i.ebayimg.com/images/g/OQ4AAOSweXdfBiAy/s-l500.jpg)
+
+
+# Table of Contents
+
+[Chapter 1 - The Interview Process](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/The%20Interview%20Process/Cracking%20the%20Coding%20Interview%20.pdf)
+
+[Chapter 1 - Behind the Scenes](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/Behind%20the%20Scenes/Cracking%20the%20Coding%20Interview%20.pdf)
