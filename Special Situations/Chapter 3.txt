@@ -1,0 +1,32 @@
+Some interviewers might hold experience candidates to a somewhat lower standard. After all, it's been
+years since these candidates took an algorithms class. They're out of practice.
+Others though hold experienced candidates to a higher standard, reasoning that the more years of experience allow a candidate to have seen many more types of problems. 
+
+The exception to this rule is system design and architecture questions, as well as questions about your
+resume. Typically, students don't study much system architecture, so experience with such challenges
+would only come professionally. Your performance in such interview questions would be evaluated with
+respect to your experience level. However, students and recent graduates are still asked these questions
+and should be prepared to solve them as well as they can
+
+The application and interview process for startups is highly variable
+
+Startups tend to want engineers who are not only smart and who can code, but also people who would
+work well in an entrepreneurial environment
+
+in the interview of start up focus on persinality  , skills  then experience
+
+Part of the reasoning for this is that their employees had to go through this process to get hired. They don't
+want acquisitions to be an "easy way" into the company
+
+For tech startups, usually all of the engineers go through the interview process, as they are one of the core
+motivators for the acquisition. 
+
+Sometimes a startup labels someone who is not a "traditional"software engineer as a software engineer.
+This often happens with data scientists or database engineers. These people may underperform during
+the software engineer interviews, as their actual role involves other skills.
+
+In other cases, a CEO "sells" a junior software engineer as more senior than he actually is. He underperforms for the senior bar because he's being held to an unfairly high standard. 
+
+for the interviwer : 
+give your interviewee space , confident , help and supportive 
+ask  between hard and meduim questions
