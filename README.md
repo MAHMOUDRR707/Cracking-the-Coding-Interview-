@@ -38,4 +38,5 @@ when you get a tricky question-everyone else probably thought it was hard too. I
 [Chapter 2 - Behind the Scenes](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/Behind%20the%20Scenes/Cracking%20the%20Coding%20Interview%20.pdf)
 
 [Chapter 3 - Special Situations](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/Special%20Situations/Chapter%203.txt)
+
 [Chapter 4 -  Before the Interview](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/Before%20the%20Interview/Cracking%20the%20Coding%20Interview%20.pdf)
