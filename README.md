@@ -40,5 +40,11 @@ when you get a tricky question-everyone else probably thought it was hard too. I
 [Chapter 3 - Special Situations](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/Special%20Situations/Chapter%203.txt)
 
 [Chapter 4 -  Before the Interview](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/Before%20the%20Interview/Cracking%20the%20Coding%20Interview%20.pdf)
+ 
+[Chapter 5 -  Behavioral Questions](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/blob/master/Behavioral%20Questions/Cracking%20the%20Coding%20Interview%20.pdf)
 
 [Arrays and Strings](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/tree/master/Arrays%20and%20Strings)
+
+[LinkedList](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/tree/master/LinkedList)
+
+[Stacks and Queues](https://github.com/MAHMOUDRR707/Cracking-the-Coding-Interview-/tree/master/Stacks%20and%20Queues)
